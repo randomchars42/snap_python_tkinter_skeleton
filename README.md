@@ -1,7 +1,8 @@
 A skeleton to package python3/tkinter apps as snaps in the future.
 
 At the moment the resulting snap crashes when running tkinter (Bug:
-<https://bugs.launchpad.net/snapcraft/+bug/1847321>).
+<https://bugs.launchpad.net/snapcraft/+bug/1847321>, might be related to:
+<https://bugs.launchpad.net/snapcraft/+bug/1709060>).
 
 ## Steps to reproduce
 
