@@ -4,14 +4,8 @@ from setuptools import setup
 
 setup(
     name='photopysnap',
-    version='0.1.0',
-    #description='Picture management (tagging, renaming)',
-    #long_description_markdown_filename='README.md',
-    author='Eike Kühn',
-    author_email='',
-    url='https://github.com/randomchars42/photopy',
+    version=git,
     license="MIT",
-    keywords='Photos,Pictures,Tags',
     python_requires='>=3.6',
     packages=['photopy'],
     package_dir={'':'src'},
