@@ -16,7 +16,7 @@ parts:
     source: .
 
 apps:
-  photopy:
+  python-tkinter-skeleton:
     environment:
       LC_ALL: C.UTF-8
       LIBGL_DRIVERS_PATH: $SNAP/usr/lib/$SNAPCRAFT_ARCH_TRIPLET/dri
