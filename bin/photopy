@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+import photopy
+
+ppy = photopy.photo.PhotoPy()
+print('done')
