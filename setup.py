@@ -3,17 +3,16 @@
 from setuptools import setup
 
 setup(
-    name='photopysnap',
-    version=git,
-    license="MIT",
+    name='python-tkinter-skeleton',
+    version='0.1.0',
+    license="The unlicense",
     python_requires='>=3.6',
-    packages=['photopy'],
+    packages=['skeleton'],
     package_dir={'':'src'},
     scripts=[
-        'bin/photopy',
+        'bin/skeleton',
         ],
     classifiers=[
-        'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.6',
         ]
 )

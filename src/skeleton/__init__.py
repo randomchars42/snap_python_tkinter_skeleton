@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-__all__=['photopy']
+__all__=['skeleton']
